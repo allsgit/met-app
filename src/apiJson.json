@@ -1,0 +1,31 @@
+{
+  "coord": { "lon": 139, "lat": 35 },
+  "weather": [
+    {
+      "id": 804,
+      "main": "Clouds",
+      "description": "overcast clouds",
+      "icon": "04n"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 293.49,
+    "feels_like": 294.06,
+    "temp_min": 293.49,
+    "temp_max": 293.49,
+    "pressure": 1009,
+    "humidity": 95,
+    "sea_level": 1009,
+    "grnd_level": 982
+  },
+  "visibility": 302,
+  "wind": { "speed": 9.4, "deg": 230, "gust": 18.4 },
+  "clouds": { "all": 100 },
+  "dt": 1650970703,
+  "sys": { "country": "JP", "sunrise": 1650916750, "sunset": 1650965057 },
+  "timezone": 32400,
+  "id": 1851632,
+  "name": "Shuzenji",
+  "cod": 200
+}
